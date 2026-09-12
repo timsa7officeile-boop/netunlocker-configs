@@ -1,0 +1,2 @@
+vless://test@1.1.1.1:443?security=tls&sni=example.com&type=ws#TestConfig
+vless://77688ab3-3f40-4b56-bc80-bf1a1856187d@fr.connfull.org:9443?type=ws&encryption=none&path=%2Fstream&host=fr.connfull.org&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#fr.connfull.org-racevpn-0pu1zq
