@@ -1,0 +1,1 @@
+vmess://eyJhZGQiOiIxLjEuMS4xIiwicG9ydCI6NDQzLCJpZCI6InRlc3QiLCJuZXQiOiJ3cyIsInRscyI6InRscyJ9
